@@ -1,4 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/donatiluca/Stochastik_IV_WS2324/HEAD)
+# Stochastics IV WS2324 @ FU-Berlin
+
+Here you can find the Jupyter notebooks presented during the course lectures.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/donatiluca/Stochastik_IV_WS2324/HEAD?urlpath=rstudio)
 
 
 
